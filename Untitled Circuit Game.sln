@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9AE5CB5C-556A-3F90-3A15-1DEF24E39E25}") = "Untitled Circuit Game", "Assembly-CSharp.csproj", "{185CAFE5-6D9B-7A4E-8253-741D54E798A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185CAFE5-6D9B-7A4E-8253-741D54E798A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185CAFE5-6D9B-7A4E-8253-741D54E798A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185CAFE5-6D9B-7A4E-8253-741D54E798A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185CAFE5-6D9B-7A4E-8253-741D54E798A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
